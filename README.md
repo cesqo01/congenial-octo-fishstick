@@ -11,3 +11,4 @@ git remote add origin <Адрес репозитория в сети>
 git branch -M main
 git push -u origin main
 ```
+Для получения и слияния изменений из удалённого репозитория используется команда ``git pull``.
